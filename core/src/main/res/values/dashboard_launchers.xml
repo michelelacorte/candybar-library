@@ -9,6 +9,7 @@
         <item>Atom Launcher</item>
         <item>Aviate Launcher</item>
         <item>CM Theme Engine</item>
+        <item>Flick Launcher</item>
         <item>GO Launcher EX</item>
         <item>Holo Launcher</item>
         <item>Holo Launcher HD</item>
@@ -35,6 +36,7 @@
         <item>@drawable/ic_launcher_atom</item>
         <item>@drawable/ic_launcher_aviate</item>
         <item>@drawable/ic_launcher_cm</item>
+        <item>@drawable/ic_launcher_flick</item>
         <item>@drawable/ic_launcher_go</item>
         <item>@drawable/ic_launcher_holo</item>
         <item>@drawable/ic_launcher_holohd</item>
@@ -62,22 +64,23 @@
         <item>com.dlto.atom.launcher</item>				<!-- 4 -->
         <item>com.tul.aviate</item>						<!-- 5 -->
         <item>org.cyanogenmod.theme.chooser</item>      <!-- 6 -->
-        <item>com.gau.go.launcherex</item>				<!-- 7 -->
-        <item>com.mobint.hololauncher</item>			<!-- 8 -->
-        <item>com.mobint.hololauncher.hd</item>			<!-- 9 -->
-        <item>com.lge.launcher2</item>                  <!-- 10 -->
-        <item>com.powerpoint45.launcher</item>          <!-- 11 -->
-        <item>com.uprui.launcher.marshmallow</item>		<!-- 12 -->
-        <item>com.jiubang.go.mini.launcher</item>		<!-- 13 -->
-        <item>com.gtp.nextlauncher</item>				<!-- 14 -->
-        <item>me.craftsapp.nlauncher</item>             <!-- 15 -->
-        <item>com.teslacoilsw.launcher</item>			<!-- 16 -->
-        <item>ginlemon.flowerfree</item>				<!-- 17 -->
-        <item>home.solo.launcher.free</item>			<!-- 18 -->
-        <item>com.zeroteam.zerolauncher</item>          <!-- 19 -->
-        <item>com.vivid.launcher</item>                 <!-- 20 -->
-        <item>com.abclauncher.launcher</item>           <!-- 21 -->
-        <item>is.shortcut</item>                        <!-- 22 -->
+        <item>com.universallauncher.universallauncher</item>      <!-- 7 -->
+        <item>com.gau.go.launcherex</item>				<!-- 8 -->
+        <item>com.mobint.hololauncher</item>			<!-- 9 -->
+        <item>com.mobint.hololauncher.hd</item>			<!-- 10 -->
+        <item>com.lge.launcher2</item>                  <!-- 11 -->
+        <item>com.powerpoint45.launcher</item>          <!-- 12 -->
+        <item>com.uprui.launcher.marshmallow</item>		<!-- 13 -->
+        <item>com.jiubang.go.mini.launcher</item>		<!-- 14 -->
+        <item>com.gtp.nextlauncher</item>				<!-- 15 -->
+        <item>me.craftsapp.nlauncher</item>             <!-- 16 -->
+        <item>com.teslacoilsw.launcher</item>			<!-- 17 -->
+        <item>ginlemon.flowerfree</item>				<!-- 18 -->
+        <item>home.solo.launcher.free</item>			<!-- 19 -->
+        <item>com.zeroteam.zerolauncher</item>          <!-- 20 -->
+        <item>com.vivid.launcher</item>                 <!-- 21 -->
+        <item>com.abclauncher.launcher</item>           <!-- 22 -->
+        <item>is.shortcut</item>                        <!-- 23 -->
     </string-array>
 
     <string-array name="launcher_packages_2">
@@ -91,19 +94,20 @@
         <item>none</item>								<!-- 7 -->
         <item>none</item>								<!-- 8 -->
         <item>none</item>								<!-- 9 -->
-        <item>com.lge.launcher3</item>                  <!-- 10 -->
-        <item>none</item>								<!-- 11 -->
+        <item>none</item>								<!-- 10 -->
+        <item>com.lge.launcher3</item>                  <!-- 11 -->
         <item>none</item>								<!-- 12 -->
         <item>none</item>								<!-- 13 -->
-        <item>com.gtp.nextlauncher.trial</item>			<!-- 14 -->
-        <item>none</item>								<!-- 15 -->
-        <item>com.teslacoilsw.launcher.prime</item>		<!-- 16 -->
-        <item>ginlemon.flowerpro</item>					<!-- 17 -->
-        <item>none</item>								<!-- 18 -->
+        <item>none</item>								<!-- 14 -->
+        <item>com.gtp.nextlauncher.trial</item>			<!-- 15 -->
+        <item>none</item>								<!-- 16 -->
+        <item>com.teslacoilsw.launcher.prime</item>		<!-- 17 -->
+        <item>ginlemon.flowerpro</item>					<!-- 18 -->
         <item>none</item>								<!-- 19 -->
-        <item>none</item>                               <!-- 20 -->
+        <item>none</item>								<!-- 20 -->
         <item>none</item>                               <!-- 21 -->
         <item>none</item>                               <!-- 22 -->
+        <item>none</item>                               <!-- 23 -->
     </string-array>
 
     <string-array name="launcher_packages_3">
@@ -124,12 +128,13 @@
         <item>none</item>								<!-- 14 -->
         <item>none</item>								<!-- 15 -->
         <item>none</item>								<!-- 16 -->
-        <item>ginlemon.flowerpro.special</item>			<!-- 17 -->
-        <item>none</item>								<!-- 18 -->
+        <item>none</item>								<!-- 17 -->
+        <item>ginlemon.flowerpro.special</item>			<!-- 18 -->
         <item>none</item>								<!-- 19 -->
-        <item>note</item>                               <!-- 20 -->
-        <item>none</item>                               <!-- 21 -->
+        <item>none</item>								<!-- 20 -->
+        <item>note</item>                               <!-- 21 -->
         <item>none</item>                               <!-- 22 -->
+        <item>none</item>                               <!-- 23 -->
     </string-array>
 
 </resources>
